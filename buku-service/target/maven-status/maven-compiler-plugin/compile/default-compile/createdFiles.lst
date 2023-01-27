@@ -1,0 +1,5 @@
+com\izza\buku\service\service\BukuService.class
+com\izza\buku\service\BukuServiceApplication.class
+com\izza\buku\service\entity\Buku.class
+com\izza\buku\service\controller\BukuController.class
+com\izza\buku\service\repository\BukuRepository.class
